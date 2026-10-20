@@ -1,0 +1,7 @@
+No license grant provided
+
+This identifier records that the supplied project inputs contain no license
+grant establishing permission to relicense the identified material.
+It is a record of missing licensing information, not a license or permission.
+The project GPL-3.0-only grant does not apply to these files.
+Obtain any required permissions from their original rights holders.

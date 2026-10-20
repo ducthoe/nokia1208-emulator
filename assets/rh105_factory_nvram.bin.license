@@ -1,0 +1,8 @@
+SPDX-FileCopyrightText: NOASSERTION
+SPDX-License-Identifier: LicenseRef-No-License-Provided
+
+Applies to assets/rh105_factory_nvram.bin.
+This third-party or firmware-derived binary is excluded from the project
+GPL-3.0-only grant. The supplied inputs do not establish permission to
+relicense it. Existing rights remain with the original rights holders.
+See THIRD_PARTY.md and LICENSES/LicenseRef-No-License-Provided.txt.

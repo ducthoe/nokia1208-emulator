@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2026 ducthoe
+# SPDX-License-Identifier: GPL-3.0-only
+
+* text=auto eol=lf
+*.png binary
+*.bin binary
+*.BIN binary
+firmware/** binary
+*.license text diff merge
